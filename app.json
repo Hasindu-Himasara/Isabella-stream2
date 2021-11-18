@@ -1,16 +1,16 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "Isabella Stream2",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/94b6d7c9b5483479907b7.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
-    "success_url": "https://t.me/dlwrml",
+    "website": "https://t.me/Isabellaupdate",
+    "repository": "https://github.com/Thilinaweerasekara2003/Isabella-stream2",
+    "success_url": "https://t.me/Thilina2004",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
